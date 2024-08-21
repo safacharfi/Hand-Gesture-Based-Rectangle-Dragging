@@ -1,8 +1,4 @@
-**Hand Gesture-Based Rectangle Dragging**
 
-### README.md
-
-```markdown
 # Hand Gesture-Based Rectangle Dragging
 
 ## Overview
